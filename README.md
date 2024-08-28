@@ -1,0 +1,2 @@
+# smapp
+heroku hostinger
